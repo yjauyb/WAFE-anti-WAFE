@@ -14,5 +14,8 @@ This paper demonstrates that both similarity- and dissimilarity-weighted average
 ![image](https://github.com/user-attachments/assets/b50f09bb-14c0-4770-945d-ea9f768e1ec8)
 ![image](https://github.com/user-attachments/assets/6413b62a-7a05-43a2-9354-40d60684d5cc)
 
+Download for weights:
+linker: https://pan.baidu.com/s/1x_nJ_l5qgNbHkqkP2WMMwQ 
+access code for baidu is: fkck
 
 
