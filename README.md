@@ -5,6 +5,7 @@ The design and experiment descriptions are summarized in the following papers.
 
 Divergence vs. Convergence: What Do We Need?
 --Substitutes for “Attention”
+DOI 10.5281/zenodo.14241892
 
 Abstract
 
